@@ -1,0 +1,15 @@
+.close {
+  font-size: 2rem;
+  color: red;
+  cursor: pointer;
+}
+
+input:checked + span{
+  text-decoration: line-through;
+}
+ 
+/* .App {
+  padding: 0rem 5rem;
+  display: flex;
+  justify-content: space-between;
+}  */

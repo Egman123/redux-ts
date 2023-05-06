@@ -1,0 +1,78 @@
+{
+  "posts": [
+    {
+      "id": 7,
+      "title": "Mdfg",
+      "body": "typicode"
+    },
+    {
+      "id": 8,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "id": 9,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "title": "fghfghh",
+      "body": "fghfghh",
+      "id": 10
+    },
+    {
+      "title": "sdfsdf",
+      "body": "sdfsdf",
+      "id": 11
+    },
+    {
+      "title": "xcxcv",
+      "body": "xcxcv",
+      "id": 12
+    },
+    {
+      "title": "xcvxcv",
+      "body": "xcvxcv",
+      "id": 13
+    },
+    {
+      "title": "xcvxcv",
+      "body": "xcvxcv",
+      "id": 14
+    },
+    {
+      "title": "xcvxcv",
+      "body": "xcvxcv",
+      "id": 15
+    },
+    {
+      "title": "sdfsdf",
+      "body": "sdfsdf",
+      "id": 16
+    },
+    {
+      "title": "ghjghg",
+      "body": "ghjghg",
+      "id": 17
+    },
+    {
+      "title": null,
+      "body": null,
+      "id": 18
+    },
+    {
+      "title": "ssdfsdf",
+      "body": "ssdfsdf",
+      "id": 19
+    },
+    {
+      "title": "Eghishe ",
+      "body": "Eghishe ",
+      "id": 20
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
